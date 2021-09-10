@@ -6,13 +6,5 @@ class Outfit:
     def addTop(self):
         pass
 
-    def addBottoms(self):
-        pass
 
 
-
-#create interface
-#add manequin
-#add something onto manequin
-#add button to add 
-#add more options and colours
